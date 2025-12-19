@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: green;
+}
+.highlight{
+    background-color: blue;
+}
+#header{
+    background-color: lightgray;
+}
+h1,h2{
+    font-family: arial;
+}
+#hoverbtn:hover{
+    background-color: red;
+    color: gold;
+}
+
